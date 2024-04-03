@@ -1,0 +1,17 @@
+/// 1-floors 楼板
+/// 2-roofs 屋顶
+/// 3-beams 梁
+/// 4-doors 门
+/// 5-walls 墙
+/// 6-wall openings 墙洞
+/// 7-windows 窗
+/// 8-curtain walls 幕墙
+/// 9-columns 柱
+/// 10-stairs 楼梯
+/// 11-railings 栏杆
+/// 12-furniture 家具
+/// 13-lighting fixtures 灯具
+/// 14-pipes 管道
+/// 15-equipments 设备
+/// 16-site 地形
+/// 17-other 其它
